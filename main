@@ -4,8 +4,7 @@ int main(){
 
 printf("test");
 
-  return 0;ㅌㅊㅌㅊㅌㅊ
-  ㄴㅇㄴㅇㄴㅇㄴㅇㄴㅇㄴㅇ
-  
+ printf("fuck jun");
+  return 0;
   
   }
