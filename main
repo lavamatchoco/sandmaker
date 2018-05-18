@@ -3,9 +3,8 @@
 int main(){
 
 printf("test");
-
-  return 0;ㅌㅊㅌㅊㅌㅊ
-  ㄴㅇㄴㅇㄴㅇㄴㅇㄴㅇㄴㅇ
+printf("언제까지 하라는거야 모르겠어 다");
+  return 0;
   
   
   }
